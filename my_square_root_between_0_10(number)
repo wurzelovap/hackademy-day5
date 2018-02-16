@@ -4,6 +4,4 @@ def my_square_root_between_0_10(number):
     print (math.sqrt(number))
     return(math.sqrt(number))
   else:
-    print("number is not in the defined range")
-
-my_square_root_between_0_10(0)
+    return("number is not in the defined range")

@@ -1,6 +1,9 @@
 import math
-def my_square_root_between_1_10(number):
-  if number >= 1 and number <=10:
-    print(math.sqrt(number))
+def my_square_root_between_0_10(number):
+  if number >= 0 and number <=10:
+    print (math.sqrt(number))
+    return(math.sqrt(number))
   else:
     print("number is not in the defined range")
+
+my_square_root_between_0_10(0)
