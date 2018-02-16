@@ -1,7 +1,7 @@
 import unittest
 import Quadratfunktion
 import math
-import my_square_root_between_0_10(number)
+import replaced print with return
 
 class Test_My_Square(unittest.TestCase):
 
