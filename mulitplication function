@@ -1,0 +1,5 @@
+def my_multiplication (var1, var2):
+  return var1*var2
+
+my_multiplication(3,4)
+
